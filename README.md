@@ -23,7 +23,7 @@
 
 ## 🚀 Live Demo
 
-Visit: **[https://yourusername.github.io/claude-typewriter/](https://yourusername.github.io/claude-typewriter/)**
+Visit: **[https://yourusername.github.io/claude-typewriter/](https://hanxueqing.github.io/claude-typewriter/)**
 
 ## 📦 Deploy to GitHub Pages
 
