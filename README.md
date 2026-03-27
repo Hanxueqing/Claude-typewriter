@@ -23,7 +23,16 @@
 
 ## 🚀 Live Demo
 
-Visit: **[https://hanxueqing.github.io/claude-typewriter/](https://hanxueqing.github.io/claude-typewriter/)**
+Visit: **[https://yourusername.github.io/claude-typewriter/](https://yourusername.github.io/claude-typewriter/)**
+
+## 📱 Install on iPhone (No App Store Needed)
+
+1. Open the link in **Safari**: **[https://yourusername.github.io/claude-typewriter/](https://yourusername.github.io/claude-typewriter/)**
+2. Tap the **Share** button (bottom center)
+3. Scroll down and tap **"Add to Home Screen"**
+4. Tap **Add** — done!
+
+The app will appear on your home screen with its own icon, run in full-screen mode (no Safari toolbar), work offline after first load, and save your notes locally.
 
 ## 📦 Deploy to GitHub Pages
 
