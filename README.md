@@ -23,11 +23,11 @@
 
 ## 🚀 Live Demo
 
-Visit: **[https://yourusername.github.io/claude-typewriter/](https://yourusername.github.io/claude-typewriter/)**
+Visit: **[https://hanxueqing.github.io/claude-typewriter/](https://hanxueqing.github.io/claude-typewriter/)**
 
 ## 📱 Install on iPhone (No App Store Needed)
 
-1. Open the link in **Safari**: **[https://yourusername.github.io/claude-typewriter/](https://yourusername.github.io/claude-typewriter/)**
+1. Open the link in **Safari**: **[https://hanxueqing.github.io/claude-typewriter/](https://hanxueqing.github.io/claude-typewriter/)**
 2. Tap the **Share** button (bottom center)
 3. Scroll down and tap **"Add to Home Screen"**
 4. Tap **Add** — done!
@@ -42,9 +42,6 @@ The app will appear on your home screen with its own icon, run in full-screen mo
 4. Click **Save**
 5. Your site will be live at `https://yourusername.github.io/claude-typewriter/`
 
-## 📱 iOS App
-
-See the `ios/` branch or download from [Releases](../../releases) for the Capacitor-wrapped iOS version.
 
 ## 🎨 Design
 
