@@ -1,4 +1,4 @@
-const CACHE_NAME = 'claude-typewriter-v1';
+const CACHE_NAME = 'claude-typewriter-v2';
 const ASSETS = [
   './',
   './index.html',
